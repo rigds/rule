@@ -1,11 +1,4 @@
-# 直连补充列表
-
-# 域名后缀匹配
-DOMAIN-SUFFIX,baidu.com
-# 静态规则
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bing.net
-DOMAIN-SUFFIX,smjcdh.com
-DOMAIN-SUFFIX,cuuck.ggff.net
-DOMAIN-SUFFIX,m.6umkq9b.com
-
+rules:
+  - DOMAIN-SUFFIX: baidu.com
+  - DOMAIN-SUFFIX: bing.com
+  - DOMAIN-SUFFIX: bing.net
