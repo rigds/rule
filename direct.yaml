@@ -1,4 +1,4 @@
-rules:
+payload:
   - DOMAIN-SUFFIX,baidu.com
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,bing.net
